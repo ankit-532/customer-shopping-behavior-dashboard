@@ -1,7 +1,9 @@
 # Customer Shopping Behavior Dashboard
 
 ## Project Overview
+## Dashboard Preview
 
+![Dashboard](dashboard.png)
 This project analyzes customer shopping behavior using Power BI. The dashboard provides insights into customer purchases, revenue trends, payment methods, seasonal performance, and customer demographics.
 
 ## Tools Used
